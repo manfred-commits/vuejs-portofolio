@@ -7,6 +7,7 @@
           style="color: white;"
         >
           <!-- <span>© 2021 Copyright: Manfredi Piraino</span> -->
+          <div>Icons made by <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
         </div>
 
         <div class="col-xl-6 col-bg-6 col-md-6 col-sm-12">
@@ -97,5 +98,8 @@ span {
     padding-bottom: 20px;
     text-align: center;
   }
+}
+a{
+  color: #759CC9;
 }
 </style>
