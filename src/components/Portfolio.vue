@@ -70,7 +70,6 @@
                 slide-content-outside="bottom"
                 style="position: aboslute"
                   @click.prevent="showDesignModalFn(design)"
-
               >
                 <vueper-slide
                   v-for="(slide, i) in design.pictures"
